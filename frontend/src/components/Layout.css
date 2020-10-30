@@ -1,0 +1,12 @@
+.side-bar {
+  /* background-color: #551c3b; */
+  height: 820px;
+  /* color: white; */
+  text-align: center;
+}
+
+.main-content {
+  background-color: #3c9ae8;
+  height: 820px;
+  /* color: white; */
+}
